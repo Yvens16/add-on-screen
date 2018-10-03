@@ -1,0 +1,39 @@
+{
+  "short_name": "Add on",
+  "name": "Add on screen",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "insta-48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "insta.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "insta256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+
+    },
+    {
+      "src": "insta512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#ffaf40",
+  "background_color": "#ffb8b8",
+  "decription": " A Simple Add On Screen Test"
+}

@@ -1,0 +1,12 @@
+button{
+  background-color: #6ab04c;
+  border-radius: 200px;
+  margin-bottom: 100px;
+}
+
+#create-post video, #create-post canavs{
+  widows: 512px;
+  max-width:100%;
+  display:none;
+  margin:auto;
+}
