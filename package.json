@@ -3,13 +3,18 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "imagetocanvas": "^3.0.1",
     "materialize-css": "^1.0.0-rc.2",
     "mdbreact": "^4.8.0",
+    "polished": "^2.2.0",
+    "prop-types": "^15.6.2",
     "react": "^16.5.2",
     "react-camera": "^0.1.3",
     "react-dom": "^16.5.2",
     "react-materialize": "^2.4.5",
-    "react-scripts": "1.1.5"
+    "react-scripts": "1.1.5",
+    "styled-components": "^3.4.9",
+    "superagent": "^4.0.0-beta.5"
   },
   "scripts": {
     "start": "react-scripts start",

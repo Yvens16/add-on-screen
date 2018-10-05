@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import Picture from './Camera';
+import Cam from './Cam';
 
 import 'font-awesome/css/font-awesome.min.css';
 import 'bootstrap-css-only/css/bootstrap.min.css'; 
@@ -38,7 +38,7 @@ class App extends Component {
     <p><a href="#">This is a link</a></p>
 </Card>
 
-      <Picture />
+    <Cam />
 
       </div>
     );
